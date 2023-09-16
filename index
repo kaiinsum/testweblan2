@@ -13,9 +13,9 @@
                 color: #eeee33;
             }
         </style>
-        <button type="button">Click me!</button>
     </head>
     <body>
         <h1>TEST 1</h1>
+        <button type="button">Click me!</button>
     </body>
 </html>
